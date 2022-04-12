@@ -7,7 +7,7 @@
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.9",
 	"url": "IncludewebsiteURLhere if you want",
-	"manifest": "ManifestURLhere",
+	"manifest": "https://github.com/Alithinar/mikes-custom-compendiums/blob/main/module.json",
 	"download": "DownloadURLhere",
 	"packs": [
 	{
