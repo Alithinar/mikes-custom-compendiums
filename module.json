@@ -1,0 +1,28 @@
+{
+	"name": "mikes-custom-compendiums",
+	"title": "Mikes Custom Compendiums",
+	"description": "Missing Spells and features from SRD",
+	"author": "Mike Van Value",
+	"version": "1.0.1",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.9",
+	"url": "IncludewebsiteURLhere if you want",
+	"manifest": "ManifestURLhere",
+	"download": "DownloadURLhere",
+	"packs": [
+	{
+		"name": "missing_spells",
+		"label": "Mikes Missing Spells",
+		"system": "dnd5e",
+		"path": "./packs/missing-spells.db",
+		"entity": "Item"
+	},
+	{
+		"name": "missing_classes",
+		"label": "Mikes Missing Classes",
+		"system": "dnd5e",
+		"path": "./packs/missing-classes.db",
+		"entity": "Item"
+	}
+	]
+}
