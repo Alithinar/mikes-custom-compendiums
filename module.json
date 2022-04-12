@@ -5,7 +5,7 @@
 	"author": "Mike Van Value",
 	"version": "1.0.6",
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "0.9.3",
+	"compatibleCoreVersion": "9.266",
 	"url": "IncludewebsiteURLhere if you want",
 	"manifest": "https://raw.githubusercontent.com/Alithinar/mikes-custom-compendiums/main/module.json",
 	"download": "https://github.com/Alithinar/mikes-custom-compendiums/archive/refs/heads/main.zip",
