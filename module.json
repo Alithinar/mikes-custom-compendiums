@@ -3,12 +3,12 @@
 	"title": "Mikes Custom Compendiums",
 	"description": "Missing Spells and features from SRD",
 	"author": "Mike Van Value",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.9",
 	"url": "IncludewebsiteURLhere if you want",
 	"manifest": "https://raw.githubusercontent.com/Alithinar/mikes-custom-compendiums/main/module.json",
-	"download": "https://github.com/Alithinar/mikes-custom-compendiums/blob/main/mikes-custom-mopendiums.zip",
+	"download": "https://github.com/Alithinar/mikes-custom-compendiums/blob/main/mikes-custom-compendiums.zip",
 	"packs": [
 	{
 		"name": "missing_spells",
